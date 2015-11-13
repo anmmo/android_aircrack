@@ -1,5 +1,5 @@
 . build/envsetup.sh
-breakfast galaxysmtd
+breakfast dior
 export USE_CCACHE=1
 mka aircrack-ng
 mka airdecap-ng
